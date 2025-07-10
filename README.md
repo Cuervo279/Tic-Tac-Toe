@@ -12,9 +12,8 @@ Este é um projeto simples de **Jogo da Velha** (Tic Tac Toe) desenvolvido em **
 - 📊 Placar persistente durante a sessão do app
 
 ## 📸 Capturas de Tela
-
-> *(Adicione prints aqui se quiser)*  
-> ![Exemplo do jogo](screenshot.png)
+ 
+> ![Exemplo do jogo](https://i.imgur.com/fd4EPhy.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
