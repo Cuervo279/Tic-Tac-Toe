@@ -1,0 +1,16 @@
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\bin\Debug\net8.0-windows\PrjJogoVelha.exe
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\bin\Debug\net8.0-windows\PrjJogoVelha.deps.json
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\bin\Debug\net8.0-windows\PrjJogoVelha.runtimeconfig.json
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\bin\Debug\net8.0-windows\PrjJogoVelha.dll
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\bin\Debug\net8.0-windows\PrjJogoVelha.pdb
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.frmJogoVelha.resources
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.csproj.GenerateResource.cache
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.AssemblyInfoInputs.cache
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.AssemblyInfo.cs
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.csproj.CoreCompileInputs.cache
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.dll
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\refint\PrjJogoVelha.dll
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.pdb
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\PrjJogoVelha.genruntimeconfig.cache
+C:\Programas\Projetos\Vanilla\PrjJogoVelha\PrjJogoVelha\PrjJogoVelha\obj\Debug\net8.0-windows\ref\PrjJogoVelha.dll
