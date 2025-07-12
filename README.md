@@ -15,6 +15,14 @@ Este é um projeto simples de **Jogo da Velha** (Tic Tac Toe) desenvolvido em **
  
 > ![Exemplo do jogo](https://i.imgur.com/fd4EPhy.png)
 
+## 🧩 Habilidades Aplicadas
+
+- Lógica de programação e estruturas de controle
+- Matrizes para representar o tabuleiro
+- Programação orientada a objetos (POO)
+- Interface gráfica com Windows Forms (eventos e controles)
+- Validação de jogadas, detecção de vitória e empate
+
 ## 🛠️ Tecnologias Utilizadas
 
 - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
